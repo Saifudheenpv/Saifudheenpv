@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=DevOps+Engineer;Cloud+%26+Linux+Specialist;Full-Stack+Developer;Automation+%7C+CI%2FCD+%7C+Monitoring" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=DevOps+Engineer;Cloud+%26+Linux+Specialist;Full-Stack+Developer;CI%2FCD+%7C+Automation+%7C+Monitoring" />
 
 </div>
 
@@ -16,10 +16,11 @@
 
 ✨ **Hi, I'm Saifudheen PV**  
 🚀 DevOps Engineer | Cloud Enthusiast | Full-Stack Developer  
-📍 India  
-💡 Passionate about **automation, scalable systems, and clean architectures**
+📍 India 🇮🇳  
 
-I build **real-world applications** and **production-ready DevOps pipelines** using open-source tools and modern cloud practices.
+💡 Passionate about **automation, scalable systems, Linux servers, and clean architectures**
+
+I build **real-world applications** and **production-grade DevOps pipelines** using open-source tools and modern cloud practices.
 
 ---
 
@@ -40,19 +41,20 @@ I build **real-world applications** and **production-ready DevOps pipelines** us
   <img src="https://skillicons.dev/icons?i=html,css,javascript,flutter" />
 </p>
 
-### 🛠️ Servers & Tools
+### 🛠️ Servers & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,nginx,mysql,postgres,redis" />
 </p>
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I’m Currently Doing
 
-- 🔧 End-to-end **DevOps projects** (CI/CD, monitoring, automation)
-- 📱 Real-world **production applications**
-- 🧪 System reliability & performance optimization
-- 📦 Cloud-native architectures (without vendor lock-in)
+- 🔧 Building **real DevOps projects (without AWS lock-in)**
+- 🧪 CI/CD pipelines using Jenkins & GitHub Actions
+- 📦 Containerized applications with Docker & Kubernetes
+- 📊 Monitoring, logging & performance optimization
+- 📱 Developing production-ready applications
 
 ---
 
@@ -73,25 +75,27 @@ I build **real-world applications** and **production-ready DevOps pipelines** us
 
 ---
 
-## 🧩 Featured Focus Areas
+## 🐍 Contribution Snake Animation
 
-✔ DevOps without AWS dependency  
-✔ Linux server administration  
-✔ CI/CD pipelines (Jenkins, GitHub Actions)  
-✔ Containerization & orchestration  
-✔ Monitoring & logging  
-✔ Real-world app deployment  
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Saifudheenpv/Saifudheenpv/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://github.com/Saifudheenpv">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mesaifudheenpv@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saifudheenpv07">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
