@@ -10,6 +10,12 @@
 
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saifudheenpv&label=Profile%20Views&color=2E9EF7&style=flat" />
+  <img src="https://img.shields.io/github/followers/Saifudheenpv?label=Followers&style=flat&color=2E9EF7" />
+  <img src="https://img.shields.io/github/stars/Saifudheenpv?label=Total%20Stars&style=flat&color=2E9EF7" />
+</p>
+
 ---
 
 ## 👋 About Me
@@ -75,13 +81,9 @@ I build **real-world applications** and **production-grade DevOps pipelines** us
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Saifudheenpv/Saifudheenpv/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+## ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
