@@ -56,7 +56,7 @@ I build **real-world applications** and **production-grade DevOps pipelines** us
 
 ## 🚀 What I’m Currently Doing
 
-- 🔧 Building **real DevOps projects (without AWS lock-in)**
+- 🔧 Building **Real DevOps projects**
 - 🧪 CI/CD pipelines using Jenkins & GitHub Actions
 - 📦 Containerized applications with Docker & Kubernetes
 - 📊 Monitoring, logging & performance optimization
