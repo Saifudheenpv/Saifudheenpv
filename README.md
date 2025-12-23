@@ -2,9 +2,9 @@
 
 # 👋 Hi there, I'm Saifudheen PV
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+RHCSA+%7C+RHCE;Cloud+%26+Linux+Specialist;Red+Hat+Certified+Professional;Full-Stack+Developer;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=DevOps+Engineer+%7C+RHCSA+%7C+RHCE;Cloud+%26+Linux+Specialist+%E2%98%81%EF%B8%8F;Red+Hat+Certified+Professional+%F0%9F%94%B4;Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -17,6 +17,7 @@
 - 🚀 **DevOps Engineer** with expertise in **CI/CD, automation, and infrastructure as code**
 - 🐧 **Linux Expert** with deep knowledge of **Red Hat Enterprise Linux** and system administration
 - 💻 **Full-Stack Developer** building scalable web applications
+- 📱 **Flutter Developer** creating cross-platform mobile applications
 - 🪟 Cross-platform expertise in **Linux & Windows** server environments
 - 🎯 Creating **high-level and ultimate-level projects** to build passion and expertise
 - 🔥 Building **production-grade, real-world solutions** that solve complex problems
@@ -29,6 +30,7 @@
 
 - 🏗️ Building **high-level and ultimate-level DevOps projects** from scratch
 - 🚀 Creating **production-ready applications** with complete CI/CD pipelines
+- 📱 Developing **cross-platform mobile apps** using Flutter and Dart
 - ⚡ Developing **enterprise-grade solutions** using cutting-edge technologies
 - 🔧 Automating complex infrastructure deployments across multi-cloud environments
 - 📚 Continuously learning and implementing **best practices** in DevOps and Cloud Architecture
@@ -128,7 +130,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -136,6 +137,13 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+### 📱 Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### 🔐 Security & Networking
 ![Firewalld](https://img.shields.io/badge/Firewalld-EE0000?style=flat&logo=red-hat&logoColor=white)
@@ -157,11 +165,14 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifudheenpv&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="180" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saifudheenpv&theme=default&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=default&hide_border=true)
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="400" />
 
 </div>
 
@@ -169,15 +180,9 @@
 
 ## 📈 Contribution Graph
 
-[![Saifudheen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saifudheenpv&theme=github-compact&hide_border=true)](https://github.com/Saifudheenpv)
-
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saifudheenpv&theme=flat&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saifudheenpv&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
 
 </div>
 
@@ -191,14 +196,18 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesaifudheenpv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saifudheenpv)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Saifudheenpv&color=00D9FF&style=for-the-badge&label=Profile+Views)
+
 </div>
 
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Saifudheenpv&color=blue&style=flat)
 
-### *"Consistency, automation, and faith — success follows."* 💫
+### 💬 *"Consistency, automation, and faith — success follows."* 💫
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
