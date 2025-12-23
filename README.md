@@ -1,8 +1,10 @@
-# Hi there, I'm Saifudheen PV 👋
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+RHCSA+%7C+RHCE;Cloud+%26+Linux+Specialist;Red+Hat+Certified+Professional;Full-Stack+Developer;Building+Scalable+Systems)](https://git.io/typing-svg)
+
+# 👋 Hi there, I'm Saifudheen PV
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+RHCSA+%7C+RHCE;Cloud+%26+Linux+Specialist;Red+Hat+Certified+Professional;Full-Stack+Developer;Building+Scalable+Systems" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -175,7 +177,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Saifudheenpv&theme=flat&no-frame=true&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saifudheenpv&theme=flat&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
