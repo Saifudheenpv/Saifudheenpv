@@ -1,112 +1,97 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saifudheen%20PV&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%"/>
-
-</div>
+# Hi there, I'm Saifudheen PV 👋
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=DevOps+Engineer;Cloud+%26+Linux+Specialist;Full-Stack+Developer;CI%2FCD+%7C+Automation+%7C+Monitoring" />
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saifudheenpv&label=Profile%20Views&color=2E9EF7&style=flat" />
-  <img src="https://img.shields.io/github/followers/Saifudheenpv?label=Followers&style=flat&color=2E9EF7" />
-  <img src="https://img.shields.io/github/stars/Saifudheenpv?label=Total%20Stars&style=flat&color=2E9EF7" />
-</p>
-
----
-
-## 👋 About Me
-
-✨ **Hi, I'm Saifudheen PV**  
-🚀 DevOps Engineer | Cloud Enthusiast | Full-Stack Developer  
-📍 India 🇮🇳  
-
-💡 Passionate about **automation, scalable systems, Linux servers, and clean architectures**
-
-I build **real-world applications** and **production-grade DevOps pipelines** using open-source tools and modern cloud practices.
-
----
-
-## 🧠 Core Skills & Technologies
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,git,github,githubactions,terraform" />
-</p>
-
-### 🖥️ Backend & Scripting
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,php,bash" />
-</p>
-
-### 🌐 Frontend & Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,flutter" />
-</p>
-
-### 🛠️ Servers & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,mysql,postgres,redis" />
-</p>
-
----
-
-## 🚀 What I’m Currently Doing
-
-- 🔧 Building **Real DevOps projects**
-- 🧪 CI/CD pipelines using Jenkins & GitHub Actions
-- 📦 Containerized applications with Docker & Kubernetes
-- 📊 Monitoring, logging & performance optimization
-- 📱 Developing production-ready applications
-
----
-
-## 📊 GitHub Analytics (Auto-Updated)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Saifudheenpv&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=tokyonight&hide_border=true" />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Linux+Specialist;Full-Stack+Developer;Building+Scalable+Systems)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 🚀 About Me
+
+- 🔭 DevOps Engineer passionate about **automation** and **scalable systems**
+- 🌱 Building production-grade **CI/CD pipelines** and **cloud infrastructure**
+- 💻 Full-stack developer with expertise in **Linux servers** and **clean architectures**
+- 📍 Based in India 🇮🇳
+- 💡 Open to collaborating on **DevOps** and **cloud projects**
 
 ---
 
-## 🤝 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://github.com/Saifudheenpv">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:mesaifudheenpv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/saifudheenpv07">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+**Development**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Infrastructure**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saifudheenpv&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Saifudheen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saifudheenpv&theme=github-compact&hide_border=true)](https://github.com/Saifudheenpv)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Saifudheenpv&theme=flat&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifudheenpv07)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesaifudheenpv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saifudheenpv)
+
+</div>
 
 ---
 
 <div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Saifudheenpv&color=blue&style=flat)
 
-### 💬 *“Consistency, automation, and faith — success follows.”*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+### *"Consistency, automation, and faith — success follows."* 💫
 
 </div>
