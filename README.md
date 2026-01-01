@@ -39,9 +39,9 @@
 
 ## 🏅 Certifications
 
-![Red Hat](https://img.shields.io/badge/Red_Hat_Certified-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
-![RHCSA](https://img.shields.io/badge/RHCSA-Certified-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
-![RHCE](https://img.shields.io/badge/RHCE-Certified-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![Linux Foundation](https://img.shields.io/badge/Linux_Foundation-Certified-003366?style=for-the-badge&logo=linux-foundation&logoColor=white)
+![KEDA](https://img.shields.io/badge/Scaling_Cloud_Native_Apps-KEDA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![LFEL1014](https://img.shields.io/badge/LFEL1014-Certified-003366?style=for-the-badge&logo=linux-foundation&logoColor=white)
 
 ---
 
