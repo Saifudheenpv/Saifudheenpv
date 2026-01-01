@@ -12,7 +12,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔴 **Red Hat Certified** Professional - **RHCSA** & **RHCE**
 - ☁️ **Cloud Engineer** specializing in **AWS, Azure & GCP**
 - 🚀 **DevOps Engineer** with expertise in **CI/CD, automation, and infrastructure as code**
 - 🐧 **Linux Expert** with deep knowledge of **Red Hat Enterprise Linux** and system administration
