@@ -1,183 +1,389 @@
 <div align="center">
 
-# 👋 Hi there, I'm Saifudheen PV
+# 👋 Hi, I'm Saifudheen PV
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=DevOps+Engineer+%7C+RHCSA+%7C+RHCE;Cloud+%26+Linux+Specialist+%E2%98%81%EF%B8%8F;Red+Hat+Certified+Professional+%F0%9F%94%B4;Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=DevOps+Engineer+%7C+Cloud+Architect;Full-Stack+Developer+%7C+MERN+Stack;Red+Hat+Certified+Engineer+(RHCE);AWS+%7C+Azure+%7C+GCP+Specialist;Mobile+App+Developer+%7C+Flutter;Building+Enterprise+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
----
+<div align="center">
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifudheenpv07)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesaifudheenpv@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saifudheenpv)
 
-- ☁️ **Cloud Engineer** specializing in **AWS, Azure & GCP**
-- 🚀 **DevOps Engineer** with expertise in **CI/CD, automation, and infrastructure as code**
-- 🐧 **Linux Expert** with deep knowledge of **Red Hat Enterprise Linux** and system administration
-- 💻 **Full-Stack Developer** building scalable web applications
-- 📱 **Flutter Developer** creating cross-platform mobile applications
-- 🪟 Cross-platform expertise in **Linux & Windows** server environments
-- 🎯 Creating **high-level and ultimate-level projects** to build passion and expertise
-- 🔥 Building **production-grade, real-world solutions** that solve complex problems
-- 📍 Based in India 🇮🇳
-- 💡 Passionate about **automation, monitoring, and cloud-native technologies**
+![Profile Views](https://komarev.com/ghpvc/?username=Saifudheenpv&color=00D9FF&style=flat-square)
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Professional Profile
 
-- 🏗️ Building **high-level and ultimate-level DevOps projects** from scratch
-- 🚀 Creating **production-ready applications** with complete CI/CD pipelines
-- 📱 Developing **cross-platform mobile apps** using Flutter and Dart
-- ⚡ Developing **enterprise-grade solutions** using cutting-edge technologies
-- 🔧 Automating complex infrastructure deployments across multi-cloud environments
-- 📚 Continuously learning and implementing **best practices** in DevOps and Cloud Architecture
-- 💪 Turning **passion into expertise** through hands-on real-world projects
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 About Me
+
+**DevOps Engineer | Full-Stack Developer | Cloud Specialist**
+
+Skilled technology professional with comprehensive expertise in **DevOps practices, cloud infrastructure, and full-stack development**. Specialized in building **scalable, production-ready applications** and implementing **automated CI/CD pipelines** across multi-cloud environments.
+
+**🔑 Core Expertise:**
+- ☁️ Multi-Cloud Infrastructure (AWS, Azure, GCP)
+- 🚀 DevOps & CI/CD Automation
+- 💻 Full-Stack Development (MERN, Spring Boot)
+- 🐳 Containerization & Orchestration (K8s, Docker)
+- 📱 Mobile App Development (Flutter)
+- 🐧 Red Hat Enterprise Linux Administration
+
+</td>
+<td width="50%">
+
+### 🏆 Certifications
+
+<div align="center">
+
+![Red Hat](https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-RHCE-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![Linux Foundation](https://img.shields.io/badge/Linux-Foundation-003366?style=for-the-badge&logo=linux-foundation&logoColor=white)
+![KEDA](https://img.shields.io/badge/KEDA-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifudheenpv&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏅 Certifications
+## 💼 Professional Expertise
 
-![Linux Foundation](https://img.shields.io/badge/Linux_Foundation-Certified-003366?style=for-the-badge&logo=linux-foundation&logoColor=white)
-![KEDA](https://img.shields.io/badge/Scaling_Cloud_Native_Apps-KEDA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![LFEL1014](https://img.shields.io/badge/LFEL1014-Certified-003366?style=for-the-badge&logo=linux-foundation&logoColor=white)
+<details open>
+<summary><b>🚀 DevOps & Infrastructure</b></summary>
+<br>
+
+**CI/CD & Automation:**
+- Advanced CI/CD pipeline implementation with Jenkins, GitHub Actions, GitLab CI, and ArgoCD
+- Infrastructure as Code using Terraform and Ansible for automated provisioning
+- Configuration management and orchestration across hybrid cloud environments
+- Continuous integration, testing, and deployment automation
+
+**Containerization & Orchestration:**
+- Production Kubernetes cluster design, deployment, and management
+- Docker containerization and multi-stage builds optimization
+- Helm charts for application deployment and lifecycle management
+- Service mesh implementation and microservices architecture
+
+**Monitoring & Observability:**
+- Complete monitoring stack with Prometheus, Grafana, and Alertmanager
+- Centralized logging using ELK Stack (Elasticsearch, Logstash, Kibana)
+- Application performance monitoring with Datadog and New Relic
+- Custom dashboards, metrics, and alerting for proactive monitoring
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud Infrastructure & Services</b></summary>
+<br>
+
+**Amazon Web Services (AWS):**
+- EC2, S3, RDS, Lambda, ECS, EKS, CloudFormation
+- VPC networking, Route53 DNS, CloudFront CDN
+- IAM security policies and CloudWatch monitoring
+- Auto Scaling Groups and Load Balancers
+
+**Microsoft Azure:**
+- Virtual Machines, Azure Kubernetes Service (AKS)
+- Azure DevOps for CI/CD pipelines
+- Azure Functions, App Service, SQL Database
+- Azure Storage and Networking services
+
+**Google Cloud Platform (GCP):**
+- Compute Engine, Google Kubernetes Engine (GKE)
+- Cloud Functions, Cloud SQL, Cloud Storage
+- Cloud Build for CI/CD automation
+- Network and security configuration
+
+</details>
+
+<details open>
+<summary><b>💻 Full-Stack Development</b></summary>
+<br>
+
+**Frontend Development:**
+- Modern UI development with React.js, Vue.js, and Angular
+- Responsive design using HTML5, CSS3, Bootstrap, and Tailwind CSS
+- State management with Redux, Vuex, and Context API
+- RESTful API integration and asynchronous programming
+
+**Backend Development:**
+- Node.js with Express.js for REST API development
+- Spring Boot and Java for enterprise applications
+- Python with Django and Flask for web services
+- Database design and optimization (SQL and NoSQL)
+- Authentication, authorization, and security implementation
+
+**Mobile Development:**
+- Cross-platform app development with Flutter and Dart
+- Native features integration and platform-specific customization
+- Firebase backend services and real-time data synchronization
+- App deployment to Google Play Store and Apple App Store
+
+</details>
+
+<details open>
+<summary><b>🐧 Linux & Red Hat Administration</b></summary>
+<br>
+
+**Red Hat Enterprise Linux (RHEL):**
+- System installation, configuration, and performance tuning
+- User and permission management with SELinux security
+- Package management with YUM/DNF and RPM
+- System monitoring, troubleshooting, and optimization
+- Bash scripting and automation
+
+**Linux Services & Networking:**
+- Web servers (Apache, Nginx) configuration and optimization
+- Network services (DNS, DHCP, NFS, Samba)
+- Firewall management with firewalld and iptables
+- SSH hardening and secure remote administration
+- Storage management (LVM, RAID, NFS)
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technology Stack
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+### ☁️ Cloud & Infrastructure
 
-### 🔧 DevOps & CI/CD Tools
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
-![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=flat&logo=travis-ci&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+</p>
 
-### 📦 Container & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=white)
+### 🔧 DevOps & CI/CD
 
-### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=flat&logo=puppet&logoColor=black)
-![Chef](https://img.shields.io/badge/Chef-F09820?style=flat&logo=chef&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" />
+<img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white" />
+</p>
 
-### 📊 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=new-relic&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat&logo=nagios&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
+### 📦 Containers & Orchestration
 
-### 🐧 Operating Systems
-![Red Hat](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=flat&logo=red-hat&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white" />
+<img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
+</p>
 
-### 💾 Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+### 💻 Programming Languages
 
-### 🌐 Web Servers & Reverse Proxy
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=flat&logo=haproxy&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefik&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
+
+### 🎨 Frontend Development
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-### 💻 Programming & Scripting Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+</p>
 
-### 🎨 Full-Stack Development
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+### 📊 Monitoring & Logging
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white" />
+</p>
 
-### 📱 Mobile App Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+### 🐧 Operating Systems
 
-### 🔐 Security & Networking
-![Firewalld](https://img.shields.io/badge/Firewalld-EE0000?style=flat&logo=red-hat&logoColor=white)
-![iptables](https://img.shields.io/badge/iptables-000000?style=flat&logo=linux&logoColor=white)
-![SELinux](https://img.shields.io/badge/SELinux-EE0000?style=flat&logo=red-hat&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" />
+<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
-### 🚀 Advanced DevOps Tools
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat&logo=sonatype&logoColor=white)
-![JFrog Artifactory](https://img.shields.io/badge/JFrog-41BF47?style=flat&logo=jfrog&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+### 💾 Version Control & Collaboration
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Featured Projects
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifudheenpv&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="180" />
+<table>
+<tr>
+<td width="50%">
 
-</div>
+### 🚀 Enterprise CI/CD Pipeline
+**Full-stack application with automated deployment**
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="400" />
+- Complete CI/CD pipeline with Jenkins & GitHub Actions
+- Automated testing, building, and deployment
+- Docker containerization with multi-stage builds
+- Kubernetes deployment with auto-scaling
+- Monitoring with Prometheus & Grafana
 
-</div>
+**Tech Stack:** Jenkins, Docker, Kubernetes, Prometheus, Grafana
+
+</td>
+<td width="50%">
+
+### ☁️ Multi-Cloud Infrastructure
+**Scalable infrastructure across AWS, Azure, GCP**
+
+- Infrastructure as Code using Terraform
+- Multi-region deployment for high availability
+- Automated provisioning and configuration
+- Load balancing and auto-scaling implementation
+- Disaster recovery and backup strategies
+
+**Tech Stack:** Terraform, Ansible, AWS, Azure, GCP
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Monitoring & Observability Platform
+**Complete observability stack for microservices**
+
+- Centralized metrics with Prometheus
+- Custom Grafana dashboards and alerts
+- Log aggregation using ELK Stack
+- Distributed tracing implementation
+- Incident response automation
+
+**Tech Stack:** Prometheus, Grafana, ELK, Fluentd
+
+</td>
+<td width="50%">
+
+### 💻 Full-Stack Web Application
+**Modern MERN stack application**
+
+- RESTful API with Node.js & Express
+- React frontend with Redux state management
+- MongoDB database with optimization
+- JWT authentication and authorization
+- Responsive UI with Tailwind CSS
+
+**Tech Stack:** MongoDB, Express, React, Node.js
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐳 Kubernetes Production Cluster
+**High-availability K8s cluster**
+
+- Production-grade Kubernetes setup
+- Helm charts for application deployment
+- Ingress controller and SSL termination
+- Horizontal pod autoscaling
+- StatefulSets for database workloads
+
+**Tech Stack:** Kubernetes, Helm, Docker, Nginx Ingress
+
+</td>
+<td width="50%">
+
+### 📱 Cross-Platform Mobile App
+**Flutter-based mobile application**
+
+- Cross-platform app for iOS & Android
+- Firebase backend integration
+- Real-time data synchronization
+- Push notifications implementation
+- Offline support with local storage
+
+**Tech Stack:** Flutter, Dart, Firebase, SQLite
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&cache_seconds=3600" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_seconds=3600&langs_count=10" height="170" />
+
+</div>
 
 <div align="center">
   
@@ -187,17 +393,109 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌟 Professional Highlights
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifudheenpv07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesaifudheenpv@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saifudheenpv)
+| 💡 **Innovation** | 🎯 **Quality** | ⚡ **Efficiency** | 🤝 **Collaboration** |
+|:---:|:---:|:---:|:---:|
+| Cutting-edge solutions | Best practices focus | Automation-first | Team player |
 
-<br/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Saifudheenpv&color=00D9FF&style=for-the-badge&label=Profile+Views)
+### ✅ **What I Bring to Your Team**
+
+- **🚀 DevOps Expertise** - End-to-end CI/CD implementation and cloud infrastructure management
+- **💻 Full-Stack Skills** - Complete application development from frontend to backend
+- **☁️ Multi-Cloud Proficiency** - Deep knowledge of AWS, Azure, and GCP platforms
+- **🐧 Red Hat Certified** - RHCSA & RHCE certified with strong Linux administration skills
+- **📱 Mobile Development** - Cross-platform app development with Flutter
+- **🔧 Automation Focus** - Strong belief in Infrastructure as Code and automation
+- **📊 Monitoring & Reliability** - Comprehensive observability implementation
+- **🌍 Global Mindset** - Ready to work with international teams and standards
+- **📚 Continuous Learning** - Always updating skills with latest technologies
+- **🎯 Problem Solver** - Analytical approach to complex technical challenges
+
+---
+
+## 💼 Open to Global Opportunities
+
+<div align="center">
+
+### 🌍 **Seeking Full-Time Roles Worldwide**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎯 Target Positions**
+
+DevOps Engineer  
+Cloud Engineer  
+Site Reliability Engineer (SRE)  
+Full-Stack Developer  
+Platform Engineer  
+Red Hat Engineer
+
+</td>
+<td align="center" width="50%">
+
+**🌏 Preferred Locations**
+
+🇺🇸 United States  
+🇸🇬 Singapore  
+🇦🇪 UAE & GCC Countries  
+🇨🇦 Canada  
+🇬🇧 United Kingdom  
+🇦🇺 Australia  
+🇪🇺 Europe
+
+</td>
+</tr>
+</table>
+
+**✅ Remote Work • ✅ Willing to Relocate • ✅ Open to Visa Sponsorship**
+
+</div>
+
+---
+
+## 📞 Get In Touch
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💼 LinkedIn
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifudheenpv07)
+
+Professional Network
+
+</td>
+<td align="center" width="33%">
+
+### 📧 Email
+[![Email](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesaifudheenpv@gmail.com)
+
+mesaifudheenpv@gmail.com
+
+</td>
+<td align="center" width="33%">
+
+### 🐙 GitHub
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saifudheenpv)
+
+View My Projects
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📊 **Response Time:** Within 24 hours • **Availability:** Immediate to 2 weeks notice
 
 </div>
 
@@ -205,8 +503,20 @@
 
 <div align="center">
 
-### 💬 *"Consistency, automation, and faith — success follows."* 💫
+### 💬 *"Building scalable solutions with passion and precision"* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+**⭐ If you find my work valuable, please star my repositories! ⭐**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**© 2025 Saifudheen PV • DevOps Engineer • Full-Stack Developer • Red Hat Certified**
+
+*Let's connect and build something amazing together!*
 
 </div>
