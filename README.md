@@ -52,12 +52,19 @@
 
 ---
 
-### 🏆 Certifications
+### 🏆 Certifications & Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux_Foundation-KEDA_Certified-003366?style=for-the-badge&logo=linux-foundation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scaling-Cloud_Native_Apps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scaling_Cloud_Native_Apps_with_KEDA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-Diploma-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server_Administrator-Internship-1E90FF?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
+
+**📜 Certified In:**
+- 🎓 **Linux Foundation** - Scaling Cloud Native Applications with KEDA (LFEL1014) - April 2025
+- ☁️ **Cloud Computing** - Skill Diploma from Techno Dot Academy - Aug 2024 to Jan 2025
+- 💼 **HashRoot Solutions** - Server Administrator Internship - Feb 2025 to Apr 2025
 
 ---
 
