@@ -2,22 +2,26 @@
 
 # Hi 👋, I'm Saifudheen PV
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Engineer;Full-Stack+Developer;Linux+Administrator;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Engineer;Linux+Administrator;Full-Stack+Developer;Building+Scalable+Systems" alt="Typing SVG" />
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔧 **DevOps Engineer** focused on CI/CD, automation & cloud infrastructure  
-- ☁️ **Multi-Cloud**: AWS | Azure | GCP  
-- 🐧 **Linux Administrator**: RHEL & Ubuntu  
-- 💻 **Backend / Full-Stack**: Spring Boot, Laravel, Python  
-- 📱 **Mobile**: Flutter & Dart  
-- 🏆 **Linux Foundation Certified** – KEDA  
+I am a **DevOps & Cloud Engineer** with hands-on experience in building, automating, and maintaining **production-ready infrastructure**.  
+I focus on **reliability, scalability, security, and clean engineering practices**.
+
+- 🔧 CI/CD, automation & infrastructure engineering  
+- ☁️ Cloud platforms: **AWS, Azure, GCP**  
+- 🐧 Linux administration: **RHEL, Ubuntu**  
+- ⚙️ Containers & orchestration: **Docker, Kubernetes**  
+- 🧱 IaC & config management: **Terraform, Ansible**  
+- 💻 Backend & scripting: **Spring Boot, Python, Bash**  
+- 📱 Mobile & UI exposure: **Flutter, Dart**  
 - 🌍 Open to **India, GCC & global opportunities**
 
 <br clear="right"/>
@@ -36,24 +40,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifudheenpv&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saifudheenpv&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-## 🏆 Certifications & Achievements
+## 🏆 Certifications & Experience
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux_Foundation-KEDA_Certified-003366?style=for-the-badge&logo=linux-foundation&logoColor=white" />
@@ -62,31 +49,10 @@
   <img src="https://img.shields.io/badge/Server_Administrator-Internship-1E90FF?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-**📜 Certified In:**
+**Certified & Trained In:**
 - 🎓 **Linux Foundation** – Scaling Cloud Native Applications with KEDA (LFEL1014) – Apr 2025  
 - ☁️ **Cloud Computing Diploma** – Techno Dot Academy – Aug 2024 to Jan 2025  
 - 💼 **Server Administrator Internship** – HashRoot – Feb 2025 to Apr 2025  
-
----
-
-## 🎯 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>📚 BookStore CI/CD Pipeline</h3>
-      <a href="https://github.com/Saifudheenpv/BookStore-CI-CD-Pipeline-Automation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifudheenpv&repo=BookStore-CI-CD-Pipeline-Automation&theme=tokyonight&hide_border=true"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🏨 Luxstay Hotel DevSecOps</h3>
-      <a href="https://github.com/Saifudheenpv/Luxstay-Hotel-DevSecOps-Pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifudheenpv&repo=Luxstay-Hotel-DevSecOps-Pipeline&theme=tokyonight&hide_border=true"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -111,5 +77,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </div>
