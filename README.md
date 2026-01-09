@@ -13,12 +13,11 @@
 ## 🚀 About Me
 
 - 🔧 **DevOps Engineer** focused on CI/CD, automation & cloud infrastructure  
-- ☁️ **Multi-Cloud Experience**: AWS | Azure | GCP  
-- 🐧 **Linux Administrator**: RHEL, Ubuntu, server management  
-- 💻 **Backend & Full-Stack**: Spring Boot, Laravel, Python  
-- 📱 **Mobile Development**: Flutter & Dart  
-- 🏆 **Linux Foundation Certified** – Scaling Cloud Native Apps with KEDA  
-- 🎯 Passionate about building **production-grade, scalable systems**  
+- ☁️ **Multi-Cloud**: AWS | Azure | GCP  
+- 🐧 **Linux Administrator**: RHEL & Ubuntu  
+- 💻 **Backend / Full-Stack**: Spring Boot, Laravel, Python  
+- 📱 **Mobile**: Flutter & Dart  
+- 🏆 **Linux Foundation Certified** – KEDA  
 - 🌍 Open to **India, GCC & global opportunities**
 
 <br clear="right"/>
@@ -74,22 +73,17 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">📚 BookStore CI/CD Pipeline</h3>
-      <p align="center">
-        <a href="https://github.com/Saifudheenpv/BookStore-CI-CD-Pipeline-Automation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifudheenpv&repo=BookStore-CI-CD-Pipeline-Automation&theme=tokyonight&hide_border=true"/>
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>📚 BookStore CI/CD Pipeline</h3>
+      <a href="https://github.com/Saifudheenpv/BookStore-CI-CD-Pipeline-Automation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifudheenpv&repo=BookStore-CI-CD-Pipeline-Automation&theme=tokyonight&hide_border=true"/>
+      </a>
     </td>
-
-    <td width="50%">
-      <h3 align="center">🏨 Luxstay Hotel DevSecOps</h3>
-      <p align="center">
-        <a href="https://github.com/Saifudheenpv/Luxstay-Hotel-DevSecOps-Pipeline">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifudheenpv&repo=Luxstay-Hotel-DevSecOps-Pipeline&theme=tokyonight&hide_border=true"/>
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>🏨 Luxstay Hotel DevSecOps</h3>
+      <a href="https://github.com/Saifudheenpv/Luxstay-Hotel-DevSecOps-Pipeline">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifudheenpv&repo=Luxstay-Hotel-DevSecOps-Pipeline&theme=tokyonight&hide_border=true"/>
+      </a>
     </td>
   </tr>
 </table>
