@@ -40,16 +40,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifudheenpv&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifudheenpv&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saifudheenpv&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saifudheenpv&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -78,15 +78,16 @@
       <h3 align="center">📚 BookStore CI/CD Pipeline</h3>
       <p align="center">
         <a href="https://github.com/Saifudheenpv/BookStore-CI-CD-Pipeline-Automation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifudheenpv&repo=BookStore-CI-CD-Pipeline-Automation&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifudheenpv&repo=BookStore-CI-CD-Pipeline-Automation&theme=tokyonight&hide_border=true"/>
         </a>
       </p>
     </td>
+
     <td width="50%">
       <h3 align="center">🏨 Luxstay Hotel DevSecOps</h3>
       <p align="center">
         <a href="https://github.com/Saifudheenpv/Luxstay-Hotel-DevSecOps-Pipeline">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifudheenpv&repo=Luxstay-Hotel-DevSecOps-Pipeline&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifudheenpv&repo=Luxstay-Hotel-DevSecOps-Pipeline&theme=tokyonight&hide_border=true"/>
         </a>
       </p>
     </td>
