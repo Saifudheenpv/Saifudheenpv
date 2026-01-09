@@ -21,8 +21,7 @@ I focus on **reliability, scalability, security, and clean engineering practices
 - ⚙️ Containers & orchestration: **Docker, Kubernetes**  
 - 🧱 IaC & config management: **Terraform, Ansible**  
 - 💻 Backend & scripting: **Spring Boot, Python, Bash**  
-- 📱 Mobile & UI exposure: **Flutter, Dart**  
-- 🌍 Open to **India, GCC & global opportunities**
+- 📱 Mobile & UI exposure: **Flutter, Dart**
 
 <br clear="right"/>
 
