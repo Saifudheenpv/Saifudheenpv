@@ -2,28 +2,30 @@
 
 # Hi 👋, I'm Saifudheen PV
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Architect;Full-Stack+Developer;Red+Hat+Certified+Professional;Building+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Engineer;Full-Stack+Developer;Linux+Administrator;Building+Scalable+Systems" alt="Typing SVG" />
 
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🚀 About Me
+---
 
-- 🔧 **DevOps Engineer** specializing in CI/CD, automation & cloud infrastructure
-- ☁️ **Multi-Cloud Expert** - AWS | Azure | GCP
-- 🐧 **Red Hat Expert** - RHEL Administration & Management
-- 💻 **Full-Stack Developer** - Spring Boot, Laravel, Python
-- 📱 **Mobile Developer** - Flutter & Dart
-- 🏆 **Linux Foundation Certified** - KEDA Scaling
-- 🎯 Building production-grade, scalable systems
-- 🌍 Open to global opportunities
+## 🚀 About Me
+
+- 🔧 **DevOps Engineer** focused on CI/CD, automation & cloud infrastructure  
+- ☁️ **Multi-Cloud Experience**: AWS | Azure | GCP  
+- 🐧 **Linux Administrator**: RHEL, Ubuntu, server management  
+- 💻 **Backend & Full-Stack**: Spring Boot, Laravel, Python  
+- 📱 **Mobile Development**: Flutter & Dart  
+- 🏆 **Linux Foundation Certified** – Scaling Cloud Native Apps with KEDA  
+- 🎯 Passionate about building **production-grade, scalable systems**  
+- 🌍 Open to **India, GCC & global opportunities**
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,git,github,gitlab,linux,redhat,ubuntu" />
@@ -35,40 +37,40 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifudheenpv&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saifudheenpv&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saifudheenpv&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
-### 🏆 Certifications & Achievements
+## 🏆 Certifications & Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux_Foundation-KEDA_Certified-003366?style=for-the-badge&logo=linux-foundation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scaling_Cloud_Native_Apps_with_KEDA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Native_Scaling-KEDA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud_Computing-Diploma-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Server_Administrator-Internship-1E90FF?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 **📜 Certified In:**
-- 🎓 **Linux Foundation** - Scaling Cloud Native Applications with KEDA (LFEL1014) - April 2025
-- ☁️ **Cloud Computing** - Skill Diploma from Techno Dot Academy - Aug 2024 to Jan 2025
-- 💼 **HashRoot Solutions** - Server Administrator Internship - Feb 2025 to Apr 2025
+- 🎓 **Linux Foundation** – Scaling Cloud Native Applications with KEDA (LFEL1014) – Apr 2025  
+- ☁️ **Cloud Computing Diploma** – Techno Dot Academy – Aug 2024 to Jan 2025  
+- 💼 **Server Administrator Internship** – HashRoot – Feb 2025 to Apr 2025  
 
 ---
 
-### 🎯 Featured Projects
+## 🎯 Featured Projects
 
 <table>
   <tr>
@@ -93,16 +95,22 @@
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/saifudheenpv07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mesaifudheenpv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Saifudheenpv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/saifudheenpv07">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mesaifudheenpv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Saifudheenpv">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saifudheenpv&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Saifudheenpv&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
