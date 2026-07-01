@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm **Saifudheen PV**
 
-### ☁️ Cloud & DevOps Engineer
+### Cloud & DevOps Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+GCP;Docker+%7C+Kubernetes+%7C+Terraform;Linux+System+Administrator;CI%2FCD+Automation;Building+Reliable+Cloud+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer;Building+Reliable+Cloud+Infrastructure;AWS+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code+with+Terraform;Linux+System+Administration;Automation+%7C+CI%2FCD+%7C+Cloud+Native" alt="Typing SVG" />
 
 <br>
 
@@ -20,14 +20,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Saifudheenpv">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Saifudheenpv&label=Profile%20Views&color=0E75B6&style=flat" alt="Profile Views"/>
-
 </div>
 
 ---
@@ -36,9 +28,9 @@
 
 ## 👨‍💻 About Me
 
-I'm **Saifudheen PV**, a passionate **Cloud & DevOps Engineer** from **Kerala, India 🇮🇳**, with hands-on experience in Linux administration, cloud platforms, infrastructure automation, and CI/CD practices.
+I'm **Saifudheen PV**, a **Cloud & DevOps Engineer** from **Kerala, India 🇮🇳** passionate about designing reliable cloud infrastructure and automating modern deployment workflows.
 
-I enjoy building scalable cloud solutions, automating deployment workflows, containerizing applications, and continuously learning modern DevOps technologies.
+I enjoy working with Linux, AWS, Kubernetes, Terraform, and CI/CD while continuously improving my skills through real-world projects and hands-on learning.
 
 ### 🚀 What I Do
 
@@ -54,12 +46,12 @@ I enjoy building scalable cloud solutions, automating deployment workflows, cont
 
 ### 🎯 Current Focus
 
-- Cloud Infrastructure
-- Kubernetes
-- Infrastructure as Code (IaC)
-- CI/CD Automation
-- Cloud Security
-- Platform Engineering
+- ☁️ Cloud Infrastructure
+- ☸️ Kubernetes
+- 🏗️ Infrastructure as Code (Terraform)
+- ⚙️ CI/CD Automation
+- 🔐 Cloud Security
+- 🚀 Platform Engineering
 
 <br clear="right"/>
 
@@ -134,7 +126,7 @@ I enjoy building scalable cloud solutions, automating deployment workflows, cont
 ### ☁️ Cloud & DevOps Intern
 **IPSR Solutions Limited**
 
-- Worked on AWS cloud services and Linux administration
+- Worked with AWS cloud services and Linux administration
 - Built CI/CD workflows using Jenkins
 - Automated infrastructure using Ansible
 - Managed hosting environments and cPanel
@@ -178,13 +170,15 @@ I enjoy building scalable cloud solutions, automating deployment workflows, cont
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🌐 **Nginx Static Website Deployment** | Deploy and host a static website on Ubuntu using Nginx with best practices. | `Ubuntu` `Nginx` `Linux` |
+| 🌐 **[Nginx Static Website Deployment](https://github.com/Saifudheenpv/nginx-static-website)** | Deploy and host a static website on Ubuntu using Nginx with best practices. | `Ubuntu` `Nginx` `Linux` |
 
 > 🚧 **More Cloud & DevOps projects are continuously being added as I expand my portfolio.**
 
+---
+
 ## 🌱 Currently Learning
 
-I'm continuously improving my Cloud & DevOps skills and currently focusing on:
+I'm currently expanding my expertise in cloud-native technologies with a focus on:
 
 - ☸️ Advanced Kubernetes (Networking, Security & Helm)
 - ☁️ AWS Solutions Architecture
@@ -213,7 +207,7 @@ I'm continuously improving my Cloud & DevOps skills and currently focusing on:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saifudheenpv&theme=github-dark&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Saifudheenpv&theme=github-dark&hide_border=true&border_radius=10"/>
 
 </div>
 
@@ -243,20 +237,16 @@ I'm continuously improving my Cloud & DevOps skills and currently focusing on:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/Saifudheenpv" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </div>
 
 ---
 
-### 💡 Open to
+## 💼 Open to Opportunities
 
 - ☁️ Cloud & DevOps Engineer Roles
 - 🚀 DevOps Internships
-- 🌍 Open Source Collaboration
-- 🤝 Technical Networking
+- 🤝 Open Source Collaboration
+- 🌍 Cloud Infrastructure Projects
 - 📚 Continuous Learning
 
 ---
@@ -265,7 +255,7 @@ I'm continuously improving my Cloud & DevOps skills and currently focusing on:
 
 ## ⭐ Thanks for visiting my profile!
 
-*"Building reliable cloud infrastructure, one deployment at a time."*
+*"Automating infrastructure. Building reliable systems. Never stop learning."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
