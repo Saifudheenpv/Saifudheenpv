@@ -205,9 +205,9 @@ I'm currently expanding my expertise in cloud-native technologies with a focus o
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Saifudheenpv&theme=github-dark&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Saifudheenpv&theme=github-dark&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -215,7 +215,7 @@ I'm currently expanding my expertise in cloud-native technologies with a focus o
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=github_dark&hide_border=true&border_radius=10"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8" />
 
 </div>
 
