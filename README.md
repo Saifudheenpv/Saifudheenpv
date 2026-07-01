@@ -11,11 +11,9 @@
 <a href="https://saifudheenpv.github.io">
 <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge"/>
 </a>
-
 <a href="https://linkedin.com/in/saifudheenpv">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:mesaifudheenpv@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -24,28 +22,15 @@
 
 ---
 
-<img align="right" alt="Cloud & DevOps" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Cloud & DevOps" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 👨‍💻 About Me
 
-I'm **Saifudheen PV**, a **Cloud & DevOps Engineer** from **Kerala, India 🇮🇳** passionate about designing reliable cloud infrastructure and automating modern deployment workflows.
+I'm **Saifudheen PV**, a **Cloud & DevOps Engineer** from **Kerala, India 🇮🇳**, passionate about designing reliable cloud infrastructure and automating modern deployment workflows.
 
-I enjoy working with Linux, AWS, Kubernetes, Terraform, and CI/CD while continuously improving my skills through real-world projects and hands-on learning.
+I enjoy working across **Linux, AWS, Kubernetes, Terraform, and CI/CD**, and I'm continuously sharpening my skills through real-world projects and hands-on learning.
 
-### 🚀 What I Do
-
-- ☁️ Build and manage cloud infrastructure on **AWS, Azure & GCP**
-- 🐧 Administer Linux servers (**Ubuntu & RHEL**)
-- 🐳 Containerize applications using **Docker**
-- ☸️ Deploy and manage workloads with **Kubernetes**
-- 🏗️ Provision infrastructure using **Terraform**
-- ⚙️ Automate deployments with **Jenkins** & **GitHub Actions**
-- 🔧 Configure systems using **Ansible**
-- 📊 Monitor applications with **Prometheus** & **Grafana**
-- 🐍 Write automation scripts using **Python** & **Bash**
-
-### 🎯 Current Focus
-
+**Currently focused on:**
 - ☁️ Cloud Infrastructure
 - ☸️ Kubernetes
 - 🏗️ Infrastructure as Code (Terraform)
@@ -63,57 +48,32 @@ I enjoy working with Linux, AWS, Kubernetes, Terraform, and CI/CD while continuo
 <tr>
 <td valign="top" width="50%">
 
-### ☁️ Cloud Platforms
+**☁️ Cloud Platforms**
+<p><img src="https://skillicons.dev/icons?i=aws,azure,gcp" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</p>
+**🐳 Containers & Orchestration**
+<p><img src="https://skillicons.dev/icons?i=docker,kubernetes" /></p>
 
-### 🐳 Containers & Orchestration
+**🏗️ Infrastructure as Code**
+<p><img src="https://skillicons.dev/icons?i=terraform,ansible" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
-
-### 🏗️ Infrastructure as Code
-
-<p>
-<img src="https://skillicons.dev/icons?i=terraform,ansible" />
-</p>
-
-### ⚙️ CI/CD
-
-<p>
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git" />
-</p>
+**⚙️ CI/CD**
+<p><img src="https://skillicons.dev/icons?i=jenkins,githubactions,git" /></p>
 
 </td>
-
 <td valign="top" width="50%">
 
-### 🐧 Operating Systems
+**🐧 Operating Systems**
+<p><img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat" />
-</p>
+**📊 Monitoring**
+<p><img src="https://skillicons.dev/icons?i=prometheus,grafana" /></p>
 
-### 📊 Monitoring
+**💻 Programming & Scripting**
+<p><img src="https://skillicons.dev/icons?i=python,bash" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
-
-### 💻 Programming & Scripting
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash" />
-</p>
-
-### 🌐 Web & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nginx,mysql,postgres,redis" />
-</p>
+**🌐 Web & Databases**
+<p><img src="https://skillicons.dev/icons?i=nginx,mysql,postgres,redis" /></p>
 
 </td>
 </tr>
@@ -123,43 +83,28 @@ I enjoy working with Linux, AWS, Kubernetes, Terraform, and CI/CD while continuo
 
 ## 💼 Experience
 
-### ☁️ Cloud & DevOps Intern
-**IPSR Solutions Limited**
-
+**☁️ Cloud & DevOps Intern** · IPSR Solutions Limited
 - Worked with AWS cloud services and Linux administration
 - Built CI/CD workflows using Jenkins
 - Automated infrastructure using Ansible
 - Managed hosting environments and cPanel
-- Gained hands-on experience with cloud operations and DevOps practices
 
----
-
-### 🖥️ Server Administrator Intern
-**HashRoot Limited**
-
+**🖥️ Server Administrator Intern** · HashRoot Limited
 - Administered Ubuntu & Linux servers
-- Managed cPanel hosting environments
-- Supported website hosting, DNS and email services
-- Monitored server health and troubleshooting
-- Worked with production-like hosting environments
+- Managed cPanel hosting environments and DNS/email services
+- Monitored server health and resolved production issues
 
----
-
-### ☁️ Cloud Associate Intern
-**Febno Technologies**
-
-- Worked with AWS, Azure and Google Cloud Platform
+**☁️ Cloud Associate Intern** · Febno Technologies
+- Worked with AWS, Azure, and Google Cloud Platform
 - Deployed containerized applications using Docker
-- Learned Kubernetes deployment fundamentals
-- Assisted with CI/CD implementation
-- Explored cloud infrastructure and automation
+- Learned Kubernetes deployment fundamentals and CI/CD basics
 
 ---
 
 ## 🏆 Certifications
 
 | Certification | Organization |
-|---------------|--------------|
+|---|---|
 | 🏅 Scaling Cloud Native Applications with KEDA (LFEL1014) | Linux Foundation |
 | 🏅 Diploma in Cloud Computing | Techno Dot Academy |
 | 🏅 Server Administrator Internship | HashRoot Limited |
@@ -169,16 +114,14 @@ I enjoy working with Linux, AWS, Kubernetes, Terraform, and CI/CD while continuo
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌐 **[Nginx Static Website Deployment](https://github.com/Saifudheenpv/nginx-static-website)** | Deploy and host a static website on Ubuntu using Nginx with best practices. | `Ubuntu` `Nginx` `Linux` |
+|---|---|---|
+| 🌐 **[Nginx Static Website Deployment](https://github.com/Saifudheenpv/nginx-static-website)** | Deployed and hosted a static website on Ubuntu using Nginx, with a custom domain and HTTPS. | `Ubuntu` `Nginx` `Linux` |
 
-> 🚧 **More Cloud & DevOps projects are continuously being added as I expand my portfolio.**
+> 🚧 More Cloud & DevOps projects are being added as I expand my portfolio.
 
 ---
 
 ## 🌱 Currently Learning
-
-I'm currently expanding my expertise in cloud-native technologies with a focus on:
 
 - ☸️ Advanced Kubernetes (Networking, Security & Helm)
 - ☁️ AWS Solutions Architecture
@@ -186,7 +129,6 @@ I'm currently expanding my expertise in cloud-native technologies with a focus o
 - 🚀 GitOps with Argo CD
 - 🔐 Cloud & Kubernetes Security
 - 📊 Observability with Prometheus, Grafana & Loki
-- ⚡ Platform Engineering Fundamentals
 
 ---
 
@@ -196,26 +138,21 @@ I'm currently expanding my expertise in cloud-native technologies with a focus o
 - ☸️ Build production-grade Kubernetes projects
 - 🏗️ Master Infrastructure as Code with Terraform
 - 🔄 Design end-to-end CI/CD pipelines
-- 📦 Build reusable DevOps automation templates
 - 🌐 Contribute to Open Source Cloud & DevOps projects
-- 📝 Publish technical blogs and project documentation
 - 💼 Start my career as a Cloud & DevOps Engineer
 
-## 🤝 Connect With Me
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://saifudheenpv.github.io" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Saifudheenpv&theme=github-dark&hide_border=true&border_radius=10"/>
 
-<a href="https://linkedin.com/in/saifudheenpv" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br><br>
 
-<a href="mailto:mesaifudheenpv@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=github_dark&hide_border=true&border_radius=10"/>
 
 </div>
 
@@ -227,13 +164,24 @@ I'm currently expanding my expertise in cloud-native technologies with a focus o
 - 🚀 DevOps Internships
 - 🤝 Open Source Collaboration
 - 🌍 Cloud Infrastructure Projects
-- 📚 Continuous Learning
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## 🤝 Connect With Me
+
+<a href="https://saifudheenpv.github.io" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/saifudheenpv" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mesaifudheenpv@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
 
 *"Automating infrastructure. Building reliable systems. Never stop learning."*
 
