@@ -143,21 +143,6 @@ I enjoy working across **Linux, AWS, Kubernetes, Terraform, and CI/CD**, and I'm
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saifudheenpv&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Saifudheenpv&theme=github-dark&hide_border=true&border_radius=10"/>
-
-<br><br>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifudheenpv&layout=compact&theme=github_dark&hide_border=true&border_radius=10"/>
-
-</div>
-
----
-
 ## 💼 Open to Opportunities
 
 - ☁️ Cloud & DevOps Engineer Roles
